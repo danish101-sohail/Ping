@@ -56,5 +56,3 @@ const GenderCheckbox = ({ onCheckboxChange, selectedGender }) => {
   );
 };
 export default GenderCheckbox;
-
-// ${selectedGender=== "male" ?"selected" : ""}
